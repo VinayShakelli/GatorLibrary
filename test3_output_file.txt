@@ -1,0 +1,56 @@
+Book 2 Reserved by Patron 2001
+Book 2 Reserved by Patron 3002
+BookID = 2
+Title = "['"Book2"']"
+Author = "['"Author1"']"
+Availability = "['"Yes"']"
+BorrowedBy = None
+Reservations = [(3002, 1, 1700625252.281915), (2001, 3, 1700625252.2818902)]
+Book 5 Reserved by Patron 3002
+Book 2 Reserved by Patron 1003
+BookID = 4
+Title = "['"Book4"']"
+Author = "['"Author1"']"
+Availability = "['"Yes"']"
+BorrowedBy = None
+Reservations = []
+Book 4 Reserved by Patron 2010
+BookID = 2
+Title = "['"Book2"']"
+Author = "['"Author1"']"
+Availability = "['"Yes"']"
+BorrowedBy = None
+Reservations = [(3002, 1, 1700625252.281915), (2001, 3, 1700625252.2818902), (1003, 4, 1700625252.281955)]
+BookID = 4
+Title = "['"Book4"']"
+Author = "['"Author1"']"
+Availability = "['"Yes"']"
+BorrowedBy = None
+Reservations = [(2010, 2, 1700625252.281966)]
+BookID = 5
+Title = "['"Book5"']"
+Author = "['"Author3"']"
+Availability = "['"Yes"']"
+BorrowedBy = None
+Reservations = [(3002, 1, 1700625252.28195)]
+Book 2 Reserved by Patron 2010
+Book 2 Reserved by Patron 1004
+Book 2 Returned by Patron 2001
+Book 2 Allotted to Patron 3002
+Book 4 Returned by Patron 2010
+Book 4 Allotted to Patron 2010
+BookID = 2
+Title = "['"Book2"']"
+Author = "['"Author1"']"
+Availability = "Yes"
+BorrowedBy = None
+Reservations = [(2010, 2, 1700625252.281993), (1004, 4, 1700625252.2819982), (1003, 4, 1700625252.281955), (2001, 3, 1700625252.2818902)]
+BookID = 3
+Title = "['"Book3"']"
+Author = "['"Author4"']"
+Availability = "['"Yes"']"
+BorrowedBy = None
+Reservations = []
+Book 2 is no longer available. Reservations made by Patrons 2010, 1004, 1003, 2001 have been cancelled!
+Colour Flip Count: 3
+Program Terminated!!
